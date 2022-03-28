@@ -1,0 +1,5 @@
+﻿  ass1.c
+C:\Users\yuliiatopalova\source\repos\Numerical\Ass1\ass1.c(46,2): error C2181: illegal else without matching if
+C:\Users\yuliiatopalova\source\repos\Numerical\Ass1\ass1.c(78,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\yuliiatopalova\source\repos\Numerical\Ass1\ass1.c(104,6): error C2146: syntax error: missing ';' before identifier 'xk'
+C:\Users\yuliiatopalova\source\repos\Numerical\Ass1\ass1.c(43): fatal error C1075: '{': no matching token found

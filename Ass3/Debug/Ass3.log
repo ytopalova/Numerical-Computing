@@ -1,0 +1,3 @@
+﻿  Ass3.c
+C:\Users\yuliiatopalova\source\repos\Numerical\Ass3\Ass3.c(61,13): warning C4476: 'printf' : unknown type field character 'R' in format specifier
+  Ass3.vcxproj -> C:\Users\yuliiatopalova\source\repos\Numerical\Ass3\Debug\Ass3.exe
