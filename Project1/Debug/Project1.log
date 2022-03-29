@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Source.c(11,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Source.c(19,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Source.c(27,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Source.c(45,15): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Source.c(50,15): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Source.c(54,12): warning C4101: 'yFitted': unreferenced local variable
+  Project1.vcxproj -> C:\Users\yuliiatopalova\source\repos\Numerical\Project1\Debug\Project1.exe
