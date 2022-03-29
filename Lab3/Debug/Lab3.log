@@ -1,0 +1,4 @@
+﻿  Lab3_PartA.c
+\\Mac\Home\Downloads\Lab3_PartA.c(12,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\Lab3_PartA.c(13,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab3.vcxproj -> C:\Users\yuliiatopalova\source\repos\Numerical\Lab3\Debug\Lab3.exe
